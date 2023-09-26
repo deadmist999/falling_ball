@@ -1,6 +1,10 @@
 # falling_ball
 
-"A new Flutter project."
+app dev duration - 2h
+
+ui - 30m
+logic - 1h
+testing/debugging - 30m
 
 ## Getting Started
 
